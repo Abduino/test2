@@ -1,0 +1,17 @@
+
+h2
+{
+    position: absolute;
+    width: 103px;
+    height: 25px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+
+    /* Darker Text Color */
+
+    color: #474747;
+}
